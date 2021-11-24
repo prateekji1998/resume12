@@ -1,0 +1,21 @@
+
+  
+h1 {
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+div {
+    display: flex;  
+    justify-content: space-between;
+}
+h3 {
+    color: whitesmoke;
+    background-color:grey;
+    font-style: italic;
+   }
+   .el {
+       display: flex;
+       flex-wrap: wrap;
+   }
